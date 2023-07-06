@@ -1,4 +1,4 @@
-# Tic-Toc-Toe\
+# Tic-Toc-Toe
 This is a simple tic-tac-toe game implemented using HTML, CSS, and JavaScript. The game follows the traditional rules of tic-tac-toe and includes the following features:\
 
 Game board: A 3x3 grid representing the tic-tac-toe game board.\
